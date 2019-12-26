@@ -1,0 +1,9 @@
+.el-icon-icon1{
+    background: url(../image/icon/icon1.png) center no-repeat;
+    background-size: cover;
+}
+.el-icon-icon1:before{
+    content: "替";
+    font-size: 14px;
+    visibility: hidden;
+}
